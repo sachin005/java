@@ -1,0 +1,8 @@
+Found at: http://www.oracle.com/technetwork/java/prog-140388.html
+
+Public - can be accessed by anyone
+Static - don't need to create an instance of the class
+void - doesn't return anything to the Java VM interpreter after finishes execution
+
+An instance of a class is an executable copy of the class.
+Class describes the data and behavior.
